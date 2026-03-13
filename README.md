@@ -1,58 +1,39 @@
-# Ahmed Ayman - CV
+# Ahmed Ayman El-Madawy
 
-Welcome to my professional CV repository.
+**AI Engineer | Machine Learning | Computer Vision | NLP**
 
-This repository contains my latest resume along with information about my skills, projects, and experience in the field of Artificial Intelligence and Software Development.
-
----
-
-## 👨‍💻 About Me
-
-I am passionate about Artificial Intelligence, Machine Learning, and Software Development.  
-I enjoy building intelligent systems, exploring new technologies, and solving real-world problems using code.
+📄 **Download My CV**
+[Ahmed Ayman CV](./Ahmed_Ayman_AI_Engineer_CV.pdf)
 
 ---
 
-## 🧠 Skills
+## About Me
 
-- Python
-- Machine Learning
-- Artificial Intelligence
-- Data Analysis
-- Problem Solving
-- Git & GitHub
+AI Engineer from Egypt specializing in **Machine Learning, Computer Vision, and NLP**.
+Experienced in building intelligent systems using **LLMs and Retrieval-Augmented Generation (RAG)** to solve real-world problems and improve decision-making systems. 
 
 ---
 
-## 📂 Contents
+## Technical Skills
 
-This repository includes:
-
-- My latest **CV**
-- Professional experience
-- Technical skills
-- Projects
-
----
-
-## 🚀 Interests
-
-- Artificial Intelligence
-- Machine Learning
-- Data Science
-- Automation
-- Software Engineering
+* **Languages:** Python, SQL
+* **ML/DL:** TensorFlow, PyTorch, Scikit-learn, Keras
+* **AI Tools:** LangChain, OpenAI APIs, Hugging Face
+* **Computer Vision:** OpenCV
+* **Tools:** Git, Docker, Jupyter, VS Code
 
 ---
 
-## 📫 Contact
+## Key Projects
 
-If you would like to collaborate or connect:
-
-- GitHub: https://github.com/AhmedAymanElm
-- Email: (put your email here)
-- LinkedIn: (if you have one)
+* **Dalilk AI** – Arabic AI car recommendation assistant using RAG
+* **SmartCrowd AI** – Real-time people tracking and analytics system
+* **Chat With CSV** – Query CSV data using natural language with LLMs
+* **Plant Disease Detection** – CNN model with 99.5% accuracy
 
 ---
 
-⭐ If you find my work interesting, feel free to follow my GitHub profile.
+## Contact
+
+📧 Email: [sirahmedayman@gmail.com](mailto:sirahmedayman@gmail.com)
+📍 Cairo, Egypt
